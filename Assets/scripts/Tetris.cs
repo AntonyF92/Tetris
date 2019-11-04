@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Drawing;
-using UnityEngine;
-using UnityEngine.Serialization;
+﻿using UnityEngine;
 using UnityEngine.UI;
-using Color = UnityEngine.Color;
-using Random = UnityEngine.Random;
 
 public class Tetris : MonoBehaviour
 {
